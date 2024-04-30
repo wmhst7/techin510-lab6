@@ -13,7 +13,7 @@ model = genai.GenerativeModel('gemini-pro')
 chat = model.start_chat(history=[])
 
 # Streamlit app setup
-st.title("Workout Planner")
+st.title("Refined Workout Planner")
 
 # Initialize chat session if not already done
 if "chat_session" not in st.session_state:
