@@ -30,7 +30,7 @@ with st.form("user_info"):
     gender = st.selectbox("Gender", options=gender_options)
     profession_level = st.selectbox("Sport Profession Level", options=["Beginner", "Intermediate", "Advanced", "Professional"])
     workout_places = st.multiselect("Preferred Workout Locations", options=["Gym", "Home", "Outdoor", "Tennis Court", "Basketball Court"])
-    available_time = st.slider("How much time can you spend on workouts per week (hours)?", 0, 20, 3)
+    available_time = st.slider("How much time can you spend on workouts per week (hours)?", 0, 20, 8)
     goals = st.text_area("What are your fitness goals?")
     submit_button = st.form_submit_button("Generate Workout Plan")
 
