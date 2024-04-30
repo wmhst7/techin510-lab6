@@ -1,4 +1,4 @@
-# techin510-lab5: Workout Planner App
+# techin510-lab6: Refined Workout Planner App
 
 This Workout Planner app is designed to help users generate personalized workout plans based on their specific details such as age, weight, height, gender, fitness level, preferred workout locations, and goals. Powered by the Gemini AI through Google's generative AI API, the app provides intelligent and tailored advice to help you meet your fitness objectives.
 
