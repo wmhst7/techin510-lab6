@@ -1,0 +1,5 @@
+google-generativeai
+streamlit
+psycopg2-binary
+python-dotenv
+requests
